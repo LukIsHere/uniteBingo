@@ -47,26 +47,30 @@ function generate(){
 var used = [];
 var list = [
     [//nerfs
+        "slowbor",
         "zacian",
-        "ursifu",
-        "charizard",
-        "espeon",
         "lapras",
-        "chanderlur",
-        "comfey",
+        "espeon",
         "mew",
-        "dodrio",
+        "charizard",
+        "ursifu",
+        "chandelure",
         "duraludon",
-        "slowbro"
+        "comfey",
+        "hoopa"
     ],
     [//buffs
-        "glaceon",
-        "tsareena",
-        "scizor",
-        "azumarill",
-        "scizor",
+        "glaceon",//my beloved
+        "absol",
         "mamoswime",
-        "crustle"
+        "zeraora",
+        "crustle",
+        "azumaril",
+        "buzzwole",
+        "scizor",
+        "lucario",
+        "tsereena",
+        "greedent"
     ]
 ];
 function getRandom(){
