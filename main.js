@@ -62,6 +62,7 @@ var list = [
     [//buffs
         "glaceon",
         "tsareena",
+        "scizor",
         "azumarill",
         "scizor",
         "mamoswime",
